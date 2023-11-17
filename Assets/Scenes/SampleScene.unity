@@ -67,9 +67,6 @@ LightmapSettings:
     m_LightmapParameters: {fileID: 0}
     m_LightmapsBakeMode: 1
     m_TextureCompression: 1
-    m_FinalGather: 0
-    m_FinalGatherFiltering: 1
-    m_FinalGatherRayCount: 256
     m_ReflectionCompression: 2
     m_MixedBakeMode: 2
     m_BakeBackend: 0
@@ -213,7 +210,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &15523215
 Animator:
-  serializedVersion: 5
+  serializedVersion: 7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -227,6 +224,7 @@ Animator:
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
@@ -253,6 +251,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 15523212}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -276,7 +275,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
   m_Offset: {x: 0.0013341755, y: -0.0040024593}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,7 +287,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16266847, y: 0.16800492}
   m_EdgeRadius: 0
 --- !u!50 &15523218
@@ -6452,6 +6451,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1726691070}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -6475,7 +6475,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
   m_Offset: {x: 0, y: -0.061124012}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -6486,7 +6487,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.8, y: 0.6510687}
   m_EdgeRadius: 0
 --- !u!1 &2058652397 stripped
@@ -6738,6 +6738,18 @@ PrefabInstance:
       propertyPath: dialogueBox
       value: 
       objectReference: {fileID: 517065757279392281}
+    - target: {fileID: 8530478660448383084, guid: ad4ae7797e08c42afbc7f1d0b2742aae, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530478660448383084, guid: ad4ae7797e08c42afbc7f1d0b2742aae, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: 'Jorge: Queres jugar un truquito? '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530478660448383084, guid: ad4ae7797e08c42afbc7f1d0b2742aae, type: 3}
+      propertyPath: 'dialogueLines.Array.data[3]'
+      value: 'Jorge: Queres jugar un truquito? '
+      objectReference: {fileID: 0}
     - target: {fileID: 9183167157895531157, guid: ad4ae7797e08c42afbc7f1d0b2742aae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.69

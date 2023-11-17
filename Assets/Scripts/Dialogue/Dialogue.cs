@@ -11,6 +11,8 @@ public class Dialogue : MonoBehaviour {
 
     public string[] lines;
     public float textSpeed;
+    public DialogueOption[] dialogueOptions;
+
     private int index;
 
     // Start is called before the first frame update
@@ -20,6 +22,7 @@ public class Dialogue : MonoBehaviour {
 
         // use this in scene example
         // StartDialogue(lines);
+        // Debug.Log(dialogueOptions);
     }
 
     // Update is called once per frame
@@ -28,7 +31,7 @@ public class Dialogue : MonoBehaviour {
 
         nextImageBtn.enabled = endOfLine;
 
-        if (Input.GetMouseButtonDown(0) && endOfLine) {
+        if ((Input.GetMouseButtonDown(0)) && endOfLine) {
             // move to next line
             NextLine();
         } else if (Input.GetMouseButtonDown(0)  && !endOfLine) {
@@ -48,6 +51,13 @@ public class Dialogue : MonoBehaviour {
         StartCoroutine(TypeLine());
     }
     
+    public void StopDialogue() {
+        panel.SetActive(false);
+        panel.GetComponent<Image>().enabled = false;
+        index = 0;
+        StopAllCoroutines();
+        textComponent.text = string.Empty;
+    }
     IEnumerator TypeLine() {
         foreach (char c in lines[index].ToCharArray()) {
             textComponent.text += c;

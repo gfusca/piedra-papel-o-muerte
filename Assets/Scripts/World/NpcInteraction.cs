@@ -28,5 +28,9 @@ public class NpcInteraction : MonoBehaviour {
     void OnCollisionExit2D(Collision2D collision) {
         playerEntered = !collision.gameObject.name.Equals("Player");
         label.GetComponent<Renderer>().enabled = playerEntered;
+        if (!collision.gameObject.name.Equals("Player")) {
+            dialogueBox.GetComponent<Dialogue>().StopDialogue();
+        }
+
     }
 }
