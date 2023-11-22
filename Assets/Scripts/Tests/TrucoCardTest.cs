@@ -10,21 +10,21 @@ public class TrucoCardTest {
     [Test]
     public void EspecialCardComparisionTest() {
         // Arrange
-        TrucoCard card = new TrucoCard(ColorIdentifer.ESPADA, 1);
-        TrucoCard anotherCard = new TrucoCard(ColorIdentifer.BASTO, 1);
+        TrucoCard card = new TrucoCard(ColorIdentifier.ESPADA, 1);
+        TrucoCard anotherCard = new TrucoCard(ColorIdentifier.BASTO, 1);
 
         // Act
         bool cardWon = card > anotherCard;
+        
         // Assess: Use the Assert class to test conditions
-        // Assert.Equals(Array.IndexOf(TrucoCard.specialCards, card), 0);
         Assert.IsTrue(cardWon);
     }
 
     [Test]
     public void SimpleCardWinComparisionTest() {
         // Arrange
-        TrucoCard card = new TrucoCard(ColorIdentifer.ESPADA, 3);
-        TrucoCard anotherCard = new TrucoCard(ColorIdentifer.BASTO, 4);
+        TrucoCard card = new TrucoCard(ColorIdentifier.ESPADA, 3);
+        TrucoCard anotherCard = new TrucoCard(ColorIdentifier.BASTO, 4);
 
         // Act
         bool cardWon = card > anotherCard;
@@ -36,8 +36,8 @@ public class TrucoCardTest {
     [Test]
     public void SimpleCardDrawComparisionTest() {
         // Arrange
-        TrucoCard card = new TrucoCard(ColorIdentifer.ESPADA, 3);
-        TrucoCard anotherCard = new TrucoCard(ColorIdentifer.BASTO, 3);
+        TrucoCard card = new TrucoCard(ColorIdentifier.ESPADA, 3);
+        TrucoCard anotherCard = new TrucoCard(ColorIdentifier.BASTO, 3);
 
         // Act
         bool cardDraw = card == anotherCard;

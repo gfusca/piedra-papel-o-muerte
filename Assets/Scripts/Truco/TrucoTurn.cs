@@ -5,6 +5,7 @@ public class TrucoTurn {
     public int winner;
 
     public TrucoTurn(TrucoCard[] cards, int winner) {
-
+        this.cards = cards;
+        this.winner = winner;
     }
 }
