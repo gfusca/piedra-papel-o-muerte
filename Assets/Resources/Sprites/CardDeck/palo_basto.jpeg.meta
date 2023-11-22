@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a2289202712e245a6837a8064ac65a9d
+guid: 8bba81deabbb6dc44a34765fd4055b24
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5741645634007249525
-    second: palo_copa_0
+      213: -5924249676085142134
+    second: palo_basto_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,11 +98,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: palo_copa_0
+      name: palo_basto_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 602
+        y: 600
         width: 360
         height: 580
       alignment: 0
@@ -112,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2a7e8cf01b8b41c4b5cb73839d27ebf
-      internalID: 1556265672
+      spriteID: 9cb81b173eb4a430fbba55fa9ec133e3
+      internalID: -184712956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_1
+      name: palo_basto_1
       rect:
         serializedVersion: 2
         x: 390
@@ -133,14 +133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e9a39b896ece40a387910b5f850d3b9
-      internalID: -1662368994
+      spriteID: cc191db8f24c341f49726ca923632cb1
+      internalID: -1239794603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_2
+      name: palo_basto_2
       rect:
         serializedVersion: 2
         x: 780
@@ -154,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: decfb3690e4f14453b2d14b1ee6aede4
-      internalID: -449736768
+      spriteID: dc61ba0842254443f8be0130d7e38d72
+      internalID: 271719763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_3
+      name: palo_basto_3
       rect:
         serializedVersion: 2
         x: 1170
@@ -175,14 +175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 213ed44d168014c1a90b1fb25c6e7e57
-      internalID: -1299270828
+      spriteID: dba4842820b514a4b96bc415bb108e7e
+      internalID: 482480591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_4
+      name: palo_basto_4
       rect:
         serializedVersion: 2
         x: 1560
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa1d8ae51eec04aeaa9346c914d88505
-      internalID: -379457231
+      spriteID: f7b1b4d0586c94927bf48ac5b8192142
+      internalID: 856963262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_5
+      name: palo_basto_5
       rect:
         serializedVersion: 2
         x: 0
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9910bbbaa7f5447af966f15469b2478c
-      internalID: 1043051434
+      spriteID: e907bcdf0ff2147b590531aea47d1df0
+      internalID: 1705744421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_6
+      name: palo_basto_6
       rect:
         serializedVersion: 2
         x: 390
@@ -238,14 +238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80941bce3a3dd4137ae1254256d9d3fa
-      internalID: -1434153427
+      spriteID: 1739b37571eb0445daa0c3af9c0ab843
+      internalID: 1397265418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_7
+      name: palo_basto_7
       rect:
         serializedVersion: 2
         x: 780
@@ -259,14 +259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b37489ed5c32f41f6977487971cbaabd
-      internalID: 186684291
+      spriteID: 970be163b2a404694a7613537e121dc7
+      internalID: 669161869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_8
+      name: palo_basto_8
       rect:
         serializedVersion: 2
         x: 1170
@@ -280,14 +280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38eea895a26b6436abbbba411367111c
-      internalID: -909696570
+      spriteID: 3e7b6fc55bf9e4a069923770ebdd1cdf
+      internalID: -643001518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_copa_9
+      name: palo_basto_9
       rect:
         serializedVersion: 2
         x: 1560
@@ -301,8 +301,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fefa26702f964df8a13a5547b2cd560
-      internalID: -303398737
+      spriteID: f784673be55474735ba33ad982fee748
+      internalID: -661583132
       vertices: []
       indices: 
       edges: []
@@ -310,7 +310,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 63c6064a49b7e4faf8d3413674c1112a
+    spriteID: 555b7f383caf848fea6e641488c502e6
     internalID: 0
     vertices: []
     indices: 
@@ -318,16 +318,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      palo_copa_0: 1556265672
-      palo_copa_1: -1662368994
-      palo_copa_2: -449736768
-      palo_copa_3: -1299270828
-      palo_copa_4: -379457231
-      palo_copa_5: 1043051434
-      palo_copa_6: -1434153427
-      palo_copa_7: 186684291
-      palo_copa_8: -909696570
-      palo_copa_9: -303398737
+      palo_basto_0: -184712956
+      palo_basto_1: -1239794603
+      palo_basto_2: 271719763
+      palo_basto_3: 482480591
+      palo_basto_4: 856963262
+      palo_basto_5: 1705744421
+      palo_basto_6: 1397265418
+      palo_basto_7: 669161869
+      palo_basto_8: -643001518
+      palo_basto_9: -661583132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

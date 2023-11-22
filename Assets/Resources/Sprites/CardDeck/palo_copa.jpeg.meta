@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7cc867f158d6a4851b106ebb0083d6e3
+guid: f4cc707608b1024428a2eb72508f0507
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4646043492190228397
-    second: palo_oro_0
+      213: -5741645634007249525
+    second: palo_copa_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,7 +98,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: palo_oro_0
+      name: palo_copa_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c33e502be9e544f989d442edcb27004
-      internalID: -1059079205
+      spriteID: b2a7e8cf01b8b41c4b5cb73839d27ebf
+      internalID: 1556265672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_1
+      name: palo_copa_1
       rect:
         serializedVersion: 2
         x: 390
@@ -133,14 +133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b51c0b5fad63d41abb909e9599c74b43
-      internalID: 1236816235
+      spriteID: 3e9a39b896ece40a387910b5f850d3b9
+      internalID: -1662368994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_2
+      name: palo_copa_2
       rect:
         serializedVersion: 2
         x: 780
@@ -154,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e71ee40646b024d08aa9c6b2a8a43bf3
-      internalID: -657422720
+      spriteID: decfb3690e4f14453b2d14b1ee6aede4
+      internalID: -449736768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_3
+      name: palo_copa_3
       rect:
         serializedVersion: 2
         x: 1170
@@ -175,14 +175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b21cba3453a8f46dc816a5549bfa76c2
-      internalID: 1505798271
+      spriteID: 213ed44d168014c1a90b1fb25c6e7e57
+      internalID: -1299270828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_4
+      name: palo_copa_4
       rect:
         serializedVersion: 2
         x: 1560
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e938a45bdcc9494ca9acee799c10222
-      internalID: 1004736020
+      spriteID: fa1d8ae51eec04aeaa9346c914d88505
+      internalID: -379457231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_5
+      name: palo_copa_5
       rect:
         serializedVersion: 2
         x: 0
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c2094d2444f6451294a06d773cd85de
-      internalID: -626831660
+      spriteID: 9910bbbaa7f5447af966f15469b2478c
+      internalID: 1043051434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_6
+      name: palo_copa_6
       rect:
         serializedVersion: 2
         x: 390
@@ -238,14 +238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de33f03791c994aa082fa2e2753c7f78
-      internalID: -461673785
+      spriteID: 80941bce3a3dd4137ae1254256d9d3fa
+      internalID: -1434153427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_7
+      name: palo_copa_7
       rect:
         serializedVersion: 2
         x: 780
@@ -259,14 +259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b213abbb2317476db2171cfd5e4ddcc
-      internalID: 1105005540
+      spriteID: b37489ed5c32f41f6977487971cbaabd
+      internalID: 186684291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_8
+      name: palo_copa_8
       rect:
         serializedVersion: 2
         x: 1170
@@ -280,14 +280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f32bef8db0a84f738e0a36a1d54e541
-      internalID: 772374774
+      spriteID: 38eea895a26b6436abbbba411367111c
+      internalID: -909696570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_oro_9
+      name: palo_copa_9
       rect:
         serializedVersion: 2
         x: 1560
@@ -301,8 +301,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14d71b30dda4740a0ae1d59c7a3f1485
-      internalID: 76494103
+      spriteID: 0fefa26702f964df8a13a5547b2cd560
+      internalID: -303398737
       vertices: []
       indices: 
       edges: []
@@ -310,7 +310,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 66d4b982360da462890bbf0b87a2b2c6
+    spriteID: 63c6064a49b7e4faf8d3413674c1112a
     internalID: 0
     vertices: []
     indices: 
@@ -318,16 +318,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      palo_oro_0: -1059079205
-      palo_oro_1: 1236816235
-      palo_oro_2: -657422720
-      palo_oro_3: 1505798271
-      palo_oro_4: 1004736020
-      palo_oro_5: -626831660
-      palo_oro_6: -461673785
-      palo_oro_7: 1105005540
-      palo_oro_8: 772374774
-      palo_oro_9: 76494103
+      palo_copa_0: 1556265672
+      palo_copa_1: -1662368994
+      palo_copa_2: -449736768
+      palo_copa_3: -1299270828
+      palo_copa_4: -379457231
+      palo_copa_5: 1043051434
+      palo_copa_6: -1434153427
+      palo_copa_7: 186684291
+      palo_copa_8: -909696570
+      palo_copa_9: -303398737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

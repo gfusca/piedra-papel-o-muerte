@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8bce3215764de4fbda63a434a590860e
+guid: 41236964a26aa574a832e3af469c1846
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5924249676085142134
-    second: palo_basto_0
+      213: 4646043492190228397
+    second: palo_oro_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,11 +98,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: palo_basto_0
+      name: palo_oro_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 600
+        y: 602
         width: 360
         height: 580
       alignment: 0
@@ -112,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cb81b173eb4a430fbba55fa9ec133e3
-      internalID: -184712956
+      spriteID: 8c33e502be9e544f989d442edcb27004
+      internalID: -1059079205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_1
+      name: palo_oro_1
       rect:
         serializedVersion: 2
         x: 390
@@ -133,14 +133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc191db8f24c341f49726ca923632cb1
-      internalID: -1239794603
+      spriteID: b51c0b5fad63d41abb909e9599c74b43
+      internalID: 1236816235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_2
+      name: palo_oro_2
       rect:
         serializedVersion: 2
         x: 780
@@ -154,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc61ba0842254443f8be0130d7e38d72
-      internalID: 271719763
+      spriteID: e71ee40646b024d08aa9c6b2a8a43bf3
+      internalID: -657422720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_3
+      name: palo_oro_3
       rect:
         serializedVersion: 2
         x: 1170
@@ -175,14 +175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dba4842820b514a4b96bc415bb108e7e
-      internalID: 482480591
+      spriteID: b21cba3453a8f46dc816a5549bfa76c2
+      internalID: 1505798271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_4
+      name: palo_oro_4
       rect:
         serializedVersion: 2
         x: 1560
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7b1b4d0586c94927bf48ac5b8192142
-      internalID: 856963262
+      spriteID: 2e938a45bdcc9494ca9acee799c10222
+      internalID: 1004736020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_5
+      name: palo_oro_5
       rect:
         serializedVersion: 2
         x: 0
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e907bcdf0ff2147b590531aea47d1df0
-      internalID: 1705744421
+      spriteID: 9c2094d2444f6451294a06d773cd85de
+      internalID: -626831660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_6
+      name: palo_oro_6
       rect:
         serializedVersion: 2
         x: 390
@@ -238,14 +238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1739b37571eb0445daa0c3af9c0ab843
-      internalID: 1397265418
+      spriteID: de33f03791c994aa082fa2e2753c7f78
+      internalID: -461673785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_7
+      name: palo_oro_7
       rect:
         serializedVersion: 2
         x: 780
@@ -259,14 +259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 970be163b2a404694a7613537e121dc7
-      internalID: 669161869
+      spriteID: 7b213abbb2317476db2171cfd5e4ddcc
+      internalID: 1105005540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_8
+      name: palo_oro_8
       rect:
         serializedVersion: 2
         x: 1170
@@ -280,14 +280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e7b6fc55bf9e4a069923770ebdd1cdf
-      internalID: -643001518
+      spriteID: 1f32bef8db0a84f738e0a36a1d54e541
+      internalID: 772374774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: palo_basto_9
+      name: palo_oro_9
       rect:
         serializedVersion: 2
         x: 1560
@@ -301,8 +301,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f784673be55474735ba33ad982fee748
-      internalID: -661583132
+      spriteID: 14d71b30dda4740a0ae1d59c7a3f1485
+      internalID: 76494103
       vertices: []
       indices: 
       edges: []
@@ -310,7 +310,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 555b7f383caf848fea6e641488c502e6
+    spriteID: 66d4b982360da462890bbf0b87a2b2c6
     internalID: 0
     vertices: []
     indices: 
@@ -318,16 +318,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      palo_basto_0: -184712956
-      palo_basto_1: -1239794603
-      palo_basto_2: 271719763
-      palo_basto_3: 482480591
-      palo_basto_4: 856963262
-      palo_basto_5: 1705744421
-      palo_basto_6: 1397265418
-      palo_basto_7: 669161869
-      palo_basto_8: -643001518
-      palo_basto_9: -661583132
+      palo_oro_0: -1059079205
+      palo_oro_1: 1236816235
+      palo_oro_2: -657422720
+      palo_oro_3: 1505798271
+      palo_oro_4: 1004736020
+      palo_oro_5: -626831660
+      palo_oro_6: -461673785
+      palo_oro_7: 1105005540
+      palo_oro_8: 772374774
+      palo_oro_9: 76494103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
